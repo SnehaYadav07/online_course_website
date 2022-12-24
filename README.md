@@ -1,1 +1,1 @@
-# online_couse_website
+# online_course_website
